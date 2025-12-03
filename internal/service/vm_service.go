@@ -4,8 +4,9 @@ import (
 	"errors"
 	"time"
 
-	"Zjmf-kvm/internal/hypervisor"
-	"Zjmf-kvm/internal/model"
+	"StarstreamAstra/internal/hypervisor"
+	"StarstreamAstra/internal/model"
+
 	"gorm.io/gorm"
 )
 

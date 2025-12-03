@@ -8,7 +8,7 @@ import (
 	"golang.org/x/crypto/bcrypt"
 	"gorm.io/gorm"
 
-	"Zjmf-kvm/internal/model"
+	"StarstreamAstra/internal/model"
 )
 
 var ErrUserExists = errors.New("User already exists")

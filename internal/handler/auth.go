@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"Zjmf-kvm/internal/model"
+	"StarstreamAstra/internal/model"
 
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v5"

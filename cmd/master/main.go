@@ -15,7 +15,7 @@ import (
 
 	"StarstreamAstra/internal/config"
 	"StarstreamAstra/internal/db"
-	"Zjmf-kvm/internal/router"
+	"StarstreamAstra/internal/router"
 )
 
 func main() {

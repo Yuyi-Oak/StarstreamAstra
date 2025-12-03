@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"Zjmf-kvm/internal/hypervisor"
-	"Zjmf-kvm/internal/service"
+	"StarstreamAstra/internal/hypervisor"
+	"StarstreamAstra/internal/service"
 
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"

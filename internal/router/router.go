@@ -10,9 +10,9 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v5"
 
-	"Zjmf-kvm/internal/config"
-	"Zjmf-kvm/internal/db"
-	"Zjmf-kvm/internal/handler"
+	"StarstreamAstra/internal/config"
+	"StarstreamAstra/internal/db"
+	"StarstreamAstra/internal/handler"
 )
 
 func RegisterRoutes(r *gin.Engine, dbConn *db.DBConn, cfg *config.Config) {

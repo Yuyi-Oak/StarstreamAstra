@@ -18,7 +18,7 @@ import (
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 
-	"Zjmf-kvm/internal/model"
+	"StarstreamAstra/internal/model"
 )
 
 type DBConn struct {

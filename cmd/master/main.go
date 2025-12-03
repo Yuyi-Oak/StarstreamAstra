@@ -13,8 +13,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 
-	"Zjmf-kvm/internal/config"
-	"Zjmf-kvm/internal/db"
+	"StarstreamAstra/internal/config"
+	"StarstreamAstra/internal/db"
 	"Zjmf-kvm/internal/router"
 )
 

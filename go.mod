@@ -1,4 +1,4 @@
-module Zjmf-kvm
+module StarstreamAstra
 
 go 1.25.4
 
